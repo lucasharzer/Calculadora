@@ -14,3 +14,6 @@ calculadora.html
 
 - Resultado:
 
+<sapn>
+      <img src="https://user-images.githubusercontent.com/85804895/137132685-468ec0ce-59d6-4c69-b0bb-65fa66be2fc0.gif", width=900>
+</span>
