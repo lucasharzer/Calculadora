@@ -11,3 +11,6 @@ Clicar com o botão direito do mouse e selecionar a opção "Open with Live Serv
 ```bash
 calculadora.html
 ```
+
+- Resultado:
+
