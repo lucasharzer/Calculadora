@@ -1,6 +1,6 @@
 # Calculadora
 
-Calculadora feita em um arquivo HTML para realizar as 4 operações fundamentais (+, -, *, /).
+Calculadora feita em um arquivo HTML para realizar as 4 operações fundamentais (+, -, *, /);
 
 Obs: Necessário o uso da extensão Live Server.
 
